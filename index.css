@@ -1,0 +1,49 @@
+.one input[type="text"],input[type="Enter your name"]{
+    border:0;
+    border-bottom: 1px solid black;
+    background:transparent;
+    outline:none;
+
+}
+.two input[type="text"],input[type="Enter your age"]{
+
+    border:0;
+    border-bottom: 1px solid black;
+    background:transparent;
+    outline:none;
+}
+.three input[type="text"],input[type="Enter your email address"]{
+    border:0;
+    border-bottom: 1px solid black;
+    background:transparent;
+    outline:none;
+}
+.four button[type="submit"]{
+    text-align: center;
+    background-color: darkmagenta;
+    width: 400px;
+    height:50px;
+    margin-left: 300px;
+    margin-right: 70px;
+}
+.alpha{
+    background-color: aquamarine;
+    padding:30px;
+    margin-right: 400px;
+}
+.beta{
+    background-color: chocolate;
+    padding:30px;
+    margin-right: 400px;
+
+}
+.gamma{
+    background-color: darkgreen;
+    padding:30px;
+    margin-right: 400px;
+}
+.radian{
+    background-color:darkkhaki;
+   padding:30px;
+   margin-right: 400px;
+}
